@@ -14,9 +14,9 @@ public class Main {
 //        System.out.println(task2.findSum(matrix));
 //    }
 
-    public static void main(String[] args){
-        Task3 task3 = new Task3();
-        Integer[] array = new Integer[] {1, 2, 3, 4};
-        task3.checkArray(array);
-    }
+//    public static void main(String[] args){
+//        Task3 task3 = new Task3();
+//        Integer[] array = new Integer[] {1, 2, 3, 4};
+//        task3.checkArray(array);
+//    }
 }
